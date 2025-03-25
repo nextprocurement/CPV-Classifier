@@ -56,3 +56,8 @@ This work has been supported by NextProcurement European Action and the Madrid G
 We would like to thank **Jennifer Tabita** for her contributions to the initial set of notebooks, and the AI4Gov master students for their validation of the approach. 
 
 Source of the data: [Ministerio de Hacienda](https://www.hacienda.gob.es/es-ES/GobiernoAbierto/Datos%20Abiertos/Paginas/LicitacionesContratante.aspx).
+
+<p align="center">
+  <img src="static/Images/eu-logo.svg" alt="EU Logo" height=100 width="200" style="margin-right: -27px;">
+  <img src="static/Images/nextprocurement-logo.png" alt="Next Procurement Logo" height=100 width="200">
+</p>
